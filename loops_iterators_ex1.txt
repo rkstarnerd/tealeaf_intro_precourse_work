@@ -1,0 +1,11 @@
+x = [1, 2, 3, 4, 5]
+x.each do |a|
+  a + 1
+end
+
+
+According to irb, this returns [1, 2, 3, 4, 5] even though I thought it would return [2, 3, 4, 5, 6]...?
+
+**watching the video walkthrough**
+
+aahh.. because we have no puts, print, return... 
