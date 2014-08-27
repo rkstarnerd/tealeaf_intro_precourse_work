@@ -1,0 +1,10 @@
+def scream(words)
+  words = words + "!!!!"
+  return
+  puts words
+end
+
+scream("Yippeee")
+
+
+The program above will print nothing because there is an explicit return followed by nothing, and because it was placed in the middle of the method it does not execute the next line.
