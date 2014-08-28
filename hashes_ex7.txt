@@ -1,0 +1,8 @@
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+
+Answer:
+
+The only difference is that the first hash, my_hash, is using the new syntax for Ruby 1.9.  The new syntax uses symbols as keys, while the old syntax comes with a => to separate the key and the value.
