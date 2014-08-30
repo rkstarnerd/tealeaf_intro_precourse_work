@@ -1,0 +1,3 @@
+What's the major difference between an Array and a Hash?
+
+Arrays have single elements while hashes have key => value pairings.
