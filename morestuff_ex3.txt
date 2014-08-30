@@ -1,0 +1,4 @@
+What is exception handling and what problem does it solve?
+
+
+Exception handling handles unexpected exceptions in the program.  For instance, when nil is returned.  It's code that says what to do in case of those exceptions.
